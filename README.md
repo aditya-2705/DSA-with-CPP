@@ -20,12 +20,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0057-insert-interval) |
 ## Hash Table
 |  |
 | ------- |
+| [0041-first-missing-positive](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0049-group-anagrams) |
 ## String
 |  |
