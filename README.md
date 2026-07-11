@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0049-group-anagrams) |
+| [0057-insert-interval](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0057-insert-interval) |
 ## Hash Table
 |  |
 | ------- |
