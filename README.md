@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0057-insert-interval) |
+| [0907-sum-of-subarray-minimums](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0907-sum-of-subarray-minimums) |
 ## Hash Table
 |  |
 | ------- |
@@ -38,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0056-merge-intervals) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0907-sum-of-subarray-minimums) |
+## Stack
+|  |
+| ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0907-sum-of-subarray-minimums) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0907-sum-of-subarray-minimums](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0907-sum-of-subarray-minimums) |
 <!---LeetCode Topics End-->
