@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0071-simplify-path) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Sorting
 |  |
 | ------- |
@@ -49,8 +50,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0071-simplify-path](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0071-simplify-path) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0907-sum-of-subarray-minimums](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0907-sum-of-subarray-minimums) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
