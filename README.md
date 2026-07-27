@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0057-insert-interval) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0907-sum-of-subarray-minimums) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0056-merge-intervals) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3536-maximum-product-of-two-digits](https://github.com/aditya-2705/DSA-with-CPP/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
 |  |
@@ -62,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
