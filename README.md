@@ -27,12 +27,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0057-insert-interval) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0907-sum-of-subarray-minimums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0049-group-anagrams) |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## String
 |  |
@@ -71,4 +73,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2799-count-complete-subarrays-in-an-array) |
 <!---LeetCode Topics End-->
