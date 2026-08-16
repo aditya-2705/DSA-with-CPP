@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/aditya-2705/DSA-with-CPP/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditya-2705/DSA-with-CPP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Array
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0071-simplify-path) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-2705/DSA-with-CPP/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
 |  |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [2269-find-the-k-beauty-of-a-number](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-2705/DSA-with-CPP/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 <!---LeetCode Topics End-->
