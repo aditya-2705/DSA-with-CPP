@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0050-powx-n) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/aditya-2705/DSA-with-CPP/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditya-2705/DSA-with-CPP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -83,4 +84,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2269-find-the-k-beauty-of-a-number](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-2705/DSA-with-CPP/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Recursion
+|  |
+| ------- |
+| [0050-powx-n](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0050-powx-n) |
 <!---LeetCode Topics End-->
