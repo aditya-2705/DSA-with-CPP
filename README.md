@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0039-combination-sum) |
 | [0041-first-missing-positive](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0056-merge-intervals) |
@@ -95,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/aditya-2705/DSA-with-CPP/tree/master/3903-smallest-stable-index-i) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
