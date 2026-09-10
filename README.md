@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0071-simplify-path) |
+| [0516-longest-palindromic-subsequence](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0516-longest-palindromic-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-2705/DSA-with-CPP/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0377-combination-sum-iv](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0377-combination-sum-iv) |
+| [0516-longest-palindromic-subsequence](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0516-longest-palindromic-subsequence) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0907-sum-of-subarray-minimums) |
 ## Stack
 |  |
