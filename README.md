@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0091-decode-ways) |
 | [0516-longest-palindromic-subsequence](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0516-longest-palindromic-subsequence) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aditya-2705/DSA-with-CPP/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sorting
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0071-simplify-path) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0907-sum-of-subarray-minimums) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -104,4 +106,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0039-combination-sum) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
