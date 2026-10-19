@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0377-combination-sum-iv](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0377-combination-sum-iv) |
 | [0907-sum-of-subarray-minimums](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0907-sum-of-subarray-minimums) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2799-count-complete-subarrays-in-an-array](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2799-count-complete-subarrays-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3903-smallest-stable-index-i](https://github.com/aditya-2705/DSA-with-CPP/tree/master/3903-smallest-stable-index-i) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0056-merge-intervals) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/aditya-2705/DSA-with-CPP/tree/master/3536-maximum-product-of-two-digits) |
 ## Dynamic Programming
@@ -110,4 +112,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aditya-2705/DSA-with-CPP/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [2089-find-target-indices-after-sorting-array](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2089-find-target-indices-after-sorting-array) |
 <!---LeetCode Topics End-->
