@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0050-powx-n) |
+| [0070-climbing-stairs](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0070-climbing-stairs) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [3536-maximum-product-of-two-digits](https://github.com/aditya-2705/DSA-with-CPP/tree/master/3536-maximum-product-of-two-digits) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/aditya-2705/DSA-with-CPP/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0091-decode-ways) |
 | [0377-combination-sum-iv](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0377-combination-sum-iv) |
 | [0516-longest-palindromic-subsequence](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0516-longest-palindromic-subsequence) |
@@ -116,4 +118,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/aditya-2705/DSA-with-CPP/tree/master/2089-find-target-indices-after-sorting-array) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/aditya-2705/DSA-with-CPP/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
